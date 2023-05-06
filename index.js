@@ -15,7 +15,7 @@ console.log(sum);
 */
 
 const myArray1 = [1, 2, 3, 4];
-let sum1 = myArray.reduce((prev, curr) => {
+let sum1 = myArray1.reduce((prev, curr) => {
   return prev + curr;
 });
 
